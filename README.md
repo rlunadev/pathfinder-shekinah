@@ -16,7 +16,7 @@ Computacion 1
 Computación I
 
 
-1.	Hacer un ensayo de 200 palabras o dar un reporte oral de tres minutos sobre la historia de las computadoras. 
+1.Hacer un ensayo de 200 palabras o dar un reporte oral de tres minutos sobre la historia de las computadoras. 
 1a. Generación (1951-1958) El primer computador fue llamado Eniac, y ocupaba aproximadamente 200 m2, luego siguió con la venta de la computadora UNIVAC (Universal Automatic Computer). En esta generación eran utilizados los llamados "tubos de vacío" que fueron usados como componentes internos de la computadora. El problema que existía era el gran calor que se generaba por la gran cantidad de tubos y además estos estaban sujetos a muchas fallas.
 2a. Generación (1959-1964)
 Tres científicos de la empresa Bell, desarrollaron el transistor, un dispositivo pequeño que transfiere señales eléctricas a través de un resistor.
