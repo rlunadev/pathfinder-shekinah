@@ -3,7 +3,7 @@ CLUB SHEKINAH
 
 ## Especialidades
 
-- [Computacion 1](#Computacion)
+- [Computacion 1](#Computacion 1)
 - [Computacion 2](#Computacion)
 - [Computacion 3](#Computacion)
 - [Computacion 4](#Computacion)
