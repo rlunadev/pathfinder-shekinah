@@ -8,8 +8,7 @@ CLUB SHEKINAH
 - [Computacion 3](#Computacion)
 - [Computacion 4](#Computacion)
 - [Computacion 5](#Computacion)
-- [Desarrollo de software](especialidades/desarrollo-de-software.md)
-### [clonar un repositorio](clonar/README.md)
+- [Desarrollo de software](/especialidades/derarrollo-de-software.md)
 - [Informatica programable](#Computacion)
 
 ## Maestria
