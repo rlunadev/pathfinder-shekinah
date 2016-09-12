@@ -10,8 +10,10 @@ CLUB SHEKINAH
 - [Computacion 5](#Computacion)
 - [Desarrollo de software](/especialidades/derarrollo-de-software.md)
 - [Informatica programable](#Computacion)
+- [Internet 1]()
+- 
 
 ## Maestria
 
-- [Maestria en ciancia y tecnologia](#Computacion)
+- [Maestria en ciencia y tecnologia](#Computacion)
 ---------------
