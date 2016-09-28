@@ -1,4 +1,4 @@
-# Desarrolo de software
+# Desarrollo de software
 
 #### Requisitos
 1. Tener la especialidad de [computacion V](#) - Especializado.
